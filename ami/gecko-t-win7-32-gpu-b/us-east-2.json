@@ -1,0 +1,17 @@
+[
+  {
+    "ImageId": "ami-41022d24",
+    "CreationDate": "2017-11-03T15:20:53.000Z",
+    "GitSha": "cf10290815dc"
+  },
+  {
+    "ImageId": "ami-32a98757",
+    "CreationDate": "2017-11-24T15:23:54.000Z",
+    "GitSha": "d9db25eaf90c"
+  },
+  {
+    "ImageId": "ami-e7436a82",
+    "CreationDate": "2017-11-30T16:21:53.000Z",
+    "GitSha": "4c90bdd8156f"
+  }
+]

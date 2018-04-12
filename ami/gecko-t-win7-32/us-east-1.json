@@ -1,0 +1,47 @@
+[
+  {
+    "ImageId": "ami-9010c3ea",
+    "CreationDate": "2017-10-18T11:54:26.000Z",
+    "GitSha": "8fcd3f1defee"
+  },
+  {
+    "ImageId": "ami-ff228385",
+    "CreationDate": "2017-10-27T11:20:55.000Z",
+    "GitSha": "39813c3c2266"
+  },
+  {
+    "ImageId": "ami-28aa8352",
+    "CreationDate": "2018-01-19T11:43:38.000Z",
+    "GitSha": "e74197942089"
+  },
+  {
+    "ImageId": "ami-843931fe",
+    "CreationDate": "2018-02-07T15:41:25.000Z",
+    "GitSha": "3d3d6fbc2d79"
+  },
+  {
+    "ImageId": "ami-ec6a7796",
+    "CreationDate": "2018-02-14T01:32:42.000Z",
+    "GitSha": "f691e19bd1eb"
+  },
+  {
+    "ImageId": "ami-59b8a523",
+    "CreationDate": "2018-02-14T08:54:33.000Z",
+    "GitSha": "d7d2df5a1740"
+  },
+  {
+    "ImageId": "ami-ce130fb4",
+    "CreationDate": "2018-02-14T15:48:02.000Z",
+    "GitSha": "137c8c1b0e4b"
+  },
+  {
+    "ImageId": "ami-3aa67347",
+    "CreationDate": "2018-03-20T09:06:31.000Z",
+    "GitSha": "1a9b9db9cb2c"
+  },
+  {
+    "ImageId": "ami-53f4582e",
+    "CreationDate": "2018-04-04T14:22:40.000Z",
+    "GitSha": "85a390e6db6e"
+  }
+]
